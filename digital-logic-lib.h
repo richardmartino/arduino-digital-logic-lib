@@ -1,3 +1,8 @@
+//Arduino Digital Logic Library by Richard Martino
+/*This was created my second to last semester at SUNY Ulster in Spring 2017 before I graduated with an A.S.
+There are bad coding practices and most importantly it should have been commented. I will work on commenting it as time
+goes on but I can't guarantee anything.*/
+
 int INV(int x){
   int output = !x;
   return output;
